@@ -1,3 +1,9 @@
+"""
+Acknowledgements:
+* The code is modified from https://github.com/SchwinnL/NeVA
+* The Authors of this paper thank the Authors of NeVA for releasing the code.
+"""
+
 from torchvision.io import read_image
 from torch.autograd import Variable
 import torch.nn.functional as F
