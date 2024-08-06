@@ -1,6 +1,6 @@
-# FovEx: Foveation-based Visual Explanations for Deep Neural Networks
+# FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks
 
-This repository contains the code and example use case for the paper ["FovEx: Foveation-based Visual Explanations for Deep Neural Networks"](https://arxiv.org/abs/2408.02123).
+This repository contains the code and example use case for the paper ["FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks"](https://arxiv.org/abs/2408.02123).
 
 ![FovEx](https://github.com/user-attachments/assets/50432df7-cc16-44e9-9fc4-faae5888e620)
 
