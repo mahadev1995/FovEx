@@ -73,4 +73,4 @@ Results
 If you find this work useful in your research, please cite our paper:
 
 - Panda, M.P., Tiezzi, M., Vilas, M. et al. FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks. Int J Comput Vis (2025). https://doi.org/10.1007/s11263-025-02543-y
----
+
