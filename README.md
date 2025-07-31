@@ -1,8 +1,7 @@
-# FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks
+Official implementation of the paper:  **"FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks"**  (Accepted at *International Journal of Computer Vision (IJCV), Springer*).
 
-This repository contains the code and example use case for the paper ["FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks"](https://arxiv.org/abs/2408.02123v1).
-
-![FovEx](https://github.com/user-attachments/assets/50432df7-cc16-44e9-9fc4-faae5888e620)
+[📄 Paper Link](https://link.springer.com/article/10.1007/s11263-025-02543-y)  
+[📄 arXiv Preprint](https://arxiv.org/abs/2408.02123v1)
 
 Description
 ----------------------
@@ -69,3 +68,13 @@ Results
 |      Delete (↓)               |   0.151        |  0.108    |     0.113     |      **0.082**  |   0.100   |       0.212    |
 |     Insert (↑)                |    **0.374**   |  0.368    |     0.361     |       0.280     |   0.372   |        0.287   |
 |      EBPG (↑)                 |    46.977      |**48.658** |     47.412    |       42.725    |   43.312   |        38.118   |
+
+---
+
+## 📚 Citation
+
+If you find this work useful in your research, please cite our paper:
+
+``` citation
+Panda, M.P., Tiezzi, M., Vilas, M. et al. FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks. Int J Comput Vis (2025). https://doi.org/10.1007/s11263-025-02543-y
+```
