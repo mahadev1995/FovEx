@@ -1,6 +1,6 @@
-Official implementation of the paper:  **"FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks"**  (Accepted at *International Journal of Computer Vision (IJCV), Springer*).
-[📄 Paper Link](https://link.springer.com/article/10.1007/s11263-025-02543-y)  
-[📄 arXiv Preprint](https://arxiv.org/abs/2408.02123v1)
+# FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks
+----------------------
+Official implementation of the paper:  **"FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks"**  (Accepted at *International Journal of Computer Vision (IJCV), Springer*). [[Link](https://link.springer.com/article/10.1007/s11263-025-02543-y)][[arXiv Preprint](https://arxiv.org/abs/2408.02123v1)]
 
 Description
 ----------------------
